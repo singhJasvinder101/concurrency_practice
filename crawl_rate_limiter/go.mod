@@ -1,3 +1,3 @@
-module crawl_limit
+module crawl_rate_limiter
 
 go 1.23.6
