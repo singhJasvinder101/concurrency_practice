@@ -33,9 +33,17 @@ How It Works:
 3. The Consumer filters and prints tweets that mention "Go" or "Gopher".
 4. The program exits cleanly after consuming all data.
 
+Concept revision or Learning source:
+https://getstream.io/blog/goroutines-go-concurrency-guide/
+
 Run It:
 --------
 ```
 cd twitter_producer_consumer
 go run .
 ```
+
+
+I am just implementing the problems list by @loong
+
+👉️[Here](https://github.com/loong/go-concurrency-exercises)
